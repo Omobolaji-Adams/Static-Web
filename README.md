@@ -22,13 +22,13 @@ Accessed my website in a browser using the unique CloudFront endpoint.
 [Screenshots at different stages](Screenshots)
 
 ### Dependencies
-* Cloud Services
+##### Cloud Services
 * Amazon Web Services S3 - Resource hosting and deployments
 * AWS CloudFront - CDN for SPA
 * AWS EKS - Backend API
 * AWS DynamoDB - Persistent Datastore
 * AWS Cognito - User Authentication
-* Performance Tracking and DevOps Tools:
+##### Performance Tracking and DevOps Tools:
 * AWS CloudWatch - Performance and Health checks
 * Sentry - Bug Reporting
 
