@@ -13,21 +13,24 @@ Sped up content delivery using AWS’s content distribution network service, Clo
 Accessed my website in a browser using the unique CloudFront endpoint.
 
 ### AWS concepts Covered:
-S3 bucket creation
-S3 bucket configuration
-Website distribution via CloudFront
-Access website via web browser
+* S3 bucket creation
+* S3 bucket configuration
+* Website distribution via CloudFront
+* Access website via web browser
+
+### Screenshots 
+[Screenshots at different stages](Screenshots)
 
 ### Dependencies
-Cloud Services
-Amazon Web Services S3 - Resource hosting and deployments
-AWS CloudFront - CDN for SPA
-AWS EKS - Backend API
-AWS DynamoDB - Persistent Datastore
-AWS Cognito - User Authentication
-Performance Tracking and DevOps Tools:
-AWS CloudWatch - Performance and Health checks
-Sentry - Bug Reporting
+* Cloud Services
+* Amazon Web Services S3 - Resource hosting and deployments
+* AWS CloudFront - CDN for SPA
+* AWS EKS - Backend API
+* AWS DynamoDB - Persistent Datastore
+* AWS Cognito - User Authentication
+* Performance Tracking and DevOps Tools:
+* AWS CloudWatch - Performance and Health checks
+* Sentry - Bug Reporting
 
 ### Frameworks:
 Ionic (Javascript) (Frontend)
