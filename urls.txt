@@ -1,0 +1,9 @@
+This links are void has projects have been taking down due , AWS resource billing
+website-endpoint
+ http://my-052970255979-bucket.s3-website-us-east-1.amazonaws.com
+
+CloudFront domain name
+ d173890jw6hxno.cloudfront.net
+
+S3 object URL
+ https://my-052970255979-bucket.s3.amazonaws.com/index.html
