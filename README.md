@@ -1,5 +1,5 @@
 # Project Overview
-The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing.
+_The cloud is perfect for hosting static websites that only include HTML, CSS, and JavaScript files that require no server-side processing._
 ---
 Hosted a static website on S3 and
 Accessed the cached website pages using CloudFront content delivery network (CDN) service. Utilizing CloudFront's low latency and high transfer speeds during website rendering.
